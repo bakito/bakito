@@ -1,6 +1,4 @@
-![bakito's github stats](https://github-readme-stats.vercel.app/api?username=bakito&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakito)](https://github.com/bakito)
+![bakito's github stats](https://github-readme-stats.vercel.app/api?username=bakito&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakito)](https://github.com/bakito)
 
 <!--### Hi there 👋
 
