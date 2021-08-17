@@ -1,7 +1,10 @@
-<details>
-  <summary>Github Stats</summary>
 
-![bakito's github stats](https://github-readme-stats.vercel.app/api?username=bakito&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakito)](https://github.com/bakito)
+![bakito's github stats](https://github-readme-stats.vercel.app/api?username=bakito&show_icons=true&bg_color=0D1117&text_color=8b949e&title_color=58a6ff&icon_color=B1721F&border_color=30363d)
+
+<details>
+  <summary>Languages</summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakito&bg_color=0D1117&text_color=8b949e&title_color=58a6ff&icon_color=B1721F&border_color=30363d)](https://github.com/bakito)
 
 </details>
 
