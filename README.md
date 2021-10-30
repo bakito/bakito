@@ -3,6 +3,8 @@
 
 [Build Dashboard](https://meercode.io/public/dashboard/afa26c5f0db9069c90c00c1dd61cb264:c1e237f26e9eb8b611f2b2dbb77d9d060dac284642201cc0cca0cc6e87046ed2839f5c79b38f7ccdb55f78958ff027cb)
 
+[Helm Charts](https://charts.bakito.net/)
+
 <details>
   <summary>Languages</summary>
 
