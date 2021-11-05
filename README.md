@@ -1,7 +1,7 @@
 
 ![bakito's github stats](https://github-readme-stats.vercel.app/api?username=bakito&show_icons=true&bg_color=0D1117&text_color=8b949e&title_color=58a6ff&icon_color=B1721F&border_color=30363d)
 
-[Build Dashboard](https://meercode.io/public/dashboard/afa26c5f0db9069c90c00c1dd61cb264:c1e237f26e9eb8b611f2b2dbb77d9d060dac284642201cc0cca0cc6e87046ed2839f5c79b38f7ccdb55f78958ff027cb)
+[Build Dashboard](https://meercode.io/public/list/5cf15ee955a543cb113a7c93ec7748c3:68d101c7b58e38e5615824a3284abb28697e6a269ec1cb7858654279f029645c9cf1a0e32931982e326a9d7e32aea31a)
 
 [Helm Charts](https://charts.bakito.net/)
 
