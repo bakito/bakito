@@ -3,8 +3,9 @@
 
 [Build Dashboard](https://meercode.io/public/dashboard/bd59ddc2d7272b5f34713ab57a0174e8:d84a82ea17e44d287ab3322f64bc2e8667fb536db8651ee899f9444c2b4020a0315681d27485f9797c2750bf4f1df9c8)
 
-[Helm Charts](https://charts.bakito.net/) [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/bakito)](https://artifacthub.io/packages/search?repo=bakito)
-# [helm-charts](https://bakito.github.io/helm-charts/)
+[Helm Charts](https://charts.bakito.net/)
+
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/bakito)](https://artifacthub.io/packages/search?repo=bakito)
 
 <details>
   <summary>Languages</summary>
