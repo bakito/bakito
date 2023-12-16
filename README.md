@@ -10,7 +10,7 @@
 <details>
   <summary>Languages</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakito&bg_color=0D1117&text_color=8b949e&title_color=58a6ff&icon_color=B1721F&border_color=30363d)](https://github.com/bakito)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakito&bg_color=0D1117&text_color=8b949e&title_color=58a6ff&icon_color=B1721F&border_color=30363d&layout=donut-vertical)](https://github.com/bakito)
 
 </details>
 
