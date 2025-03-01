@@ -26,7 +26,7 @@ jobs:
 
           # Options
           user: bakito
-          template: repository #terminal #classic
+          template: terminal #classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Zurich
           plugin_achievements: no
