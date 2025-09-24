@@ -5,6 +5,8 @@
 
 [Helm Charts](https://charts.bakito.net/)
 
+📖 [Killer Coda](https://killercoda.com/bakito/)
+
 <details>
   <summary>Languages</summary>
 
